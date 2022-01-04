@@ -1,0 +1,44 @@
+{
+  "minecraft": {
+    "version": "1.6.2",
+    "modLoaders": [
+      {
+        "id": "forge-9.10.1.871",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "popularmmos The Crafting Dead",
+  "version": "popularmmos The Crafting Dead",
+  "author": "",
+  "files": [
+    {
+      "projectID": 239449,
+      "fileID": 2423793,
+      "required": true
+    },
+    {
+      "projectID": 221826,
+      "fileID": 2206143,
+      "required": true
+    },
+    {
+      "projectID": 228027,
+      "fileID": 2229127,
+      "required": true
+    },
+    {
+      "projectID": 59203,
+      "fileID": 740831,
+      "required": true
+    },
+    {
+      "projectID": 59143,
+      "fileID": 2202482,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
